@@ -42,7 +42,7 @@ raven==5.32.0
 redis==2.10.5             # via django-redis
 simplegeneric==0.8.1      # via ipython
 six==1.10.0               # via django-extensions, model-mommy, packaging, pip-tools, prompt-toolkit, setuptools, traitlets, webtest
-sqlparse==0.2.2           # via django-debug-toolbar
+sqlparse==0.5.0           # via django-debug-toolbar
 traitlets==4.3.1          # via ipython
 uwsgi==2.0.14
 waitress==1.0.1           # via webtest
