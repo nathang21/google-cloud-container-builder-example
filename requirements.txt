@@ -45,7 +45,7 @@ six==1.10.0               # via django-extensions, model-mommy, packaging, pip-t
 sqlparse==0.2.2           # via django-debug-toolbar
 traitlets==4.3.1          # via ipython
 uwsgi==2.0.14
-waitress==1.0.1           # via webtest
+waitress==3.0.1           # via webtest
 wcwidth==0.1.7            # via prompt-toolkit
 webob==1.7.1              # via webtest
 webtest==2.0.24
