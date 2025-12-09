@@ -18,7 +18,7 @@ django-model-utils==2.6.1
 django-redis==4.7.0
 django-vanilla-views==1.0.4
 django-webtest==1.8.0
-django==1.10.5
+django==4.2.27
 first==2.0.1              # via pip-tools
 flake8==3.2.1
 hiredis==0.2.0
@@ -42,7 +42,7 @@ raven==5.32.0
 redis==2.10.5             # via django-redis
 simplegeneric==0.8.1      # via ipython
 six==1.10.0               # via django-extensions, model-mommy, packaging, pip-tools, prompt-toolkit, setuptools, traitlets, webtest
-sqlparse==0.2.2           # via django-debug-toolbar
+sqlparse==0.5.4           # via django-debug-toolbar
 traitlets==4.3.1          # via ipython
 uwsgi==2.0.14
 waitress==1.0.1           # via webtest
